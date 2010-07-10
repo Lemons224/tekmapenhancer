@@ -1,8 +1,7 @@
-## Interface: 30000
+## Interface: 30300
 ## Title: tekMapEnhancer
 ## Notes: Fullscreen map sucks!
 ## Author: Tekkub Stoutwrithe
-## Version: Alpha
 
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Always: delayed
