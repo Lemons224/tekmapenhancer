@@ -1,3 +1,6 @@
+3.0.3.3-Update
+   Fixed a problem where minimizing and maximizing the world map would cause the rest of the UI to disappear
+   Stopped the addon from scaling the world map when it is minimized
+
 3.0.2.2-Release
-    Typos suck too
 
